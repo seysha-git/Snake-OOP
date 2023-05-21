@@ -1,0 +1,3 @@
+SIZE = 40
+BACKGROUND = (110, 110,5)
+FONT_TYPE = "arial"
